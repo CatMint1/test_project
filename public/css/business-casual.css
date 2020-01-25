@@ -23,6 +23,8 @@ h6 {
 
 p {
   line-height: 1.75;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
 }
 
 .text-faded {

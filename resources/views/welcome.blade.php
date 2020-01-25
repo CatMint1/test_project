@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Кофейня</title>
+  <title>Кофейня ENGELS COFFEE</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -25,7 +25,7 @@
 <body>
 
   <h1 class="site-heading text-center text-white d-none d-lg-block">
-    <span class="site-heading-upper text-primary mb-3">Ресторан</span>
+    <span class="site-heading-upper text-primary mb-3">Кофейня</span>
     <span class="site-heading-lower">Engels Coffee</span>
   </h1>
 
